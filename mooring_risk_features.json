@@ -1,0 +1,1 @@
+["min_ship_distance", "max_ship_distance", "mean_ship_distance", "max_distance_change", "mean_distance_change", "total_hooks", "active_hooks", "faulted_hooks", "avg_tension", "max_tension", "std_tension", "num_tension_ge_5", "num_tension_ge_7", "util_ratio", "fault_ratio", "high_ratio", "crit_ratio", "num_active_radars"]

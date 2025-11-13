@@ -1,0 +1,2840 @@
+{
+  "name": "Albany",
+  "berths": [
+    {
+      "name": "Berth B",
+      "bollardCount": 15,
+      "hookCount": 45,
+      "ship": {
+        "name": "Seagoing Mei",
+        "vesselId": "3643"
+      },
+      "radars": [
+        {
+          "name": "BBRD1",
+          "shipDistance": null,
+          "distanceChange": null,
+          "distanceStatus": "INACTIVE"
+        },
+        {
+          "name": "BBRD2",
+          "shipDistance": 15.064943647087885,
+          "distanceChange": 10.04048996632125,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BBRD3",
+          "shipDistance": null,
+          "distanceChange": null,
+          "distanceStatus": "INACTIVE"
+        },
+        {
+          "name": "BBRD4",
+          "shipDistance": 11.674777513150419,
+          "distanceChange": 11.143267498401755,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BBRD5",
+          "shipDistance": 3.7372953103450084,
+          "distanceChange": 2.924708447555058,
+          "distanceStatus": "ACTIVE"
+        }
+      ],
+      "bollards": [
+        {
+          "name": "BOL822",
+          "hooks": [
+            {
+              "name": "Hook 1",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 2",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 3",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL560",
+          "hooks": [
+            {
+              "name": "Hook 4",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 5",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 6",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL572",
+          "hooks": [
+            {
+              "name": "Hook 7",
+              "tension": 6,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 8",
+              "tension": 6,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 9",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            }
+          ]
+        },
+        {
+          "name": "BOL250",
+          "hooks": [
+            {
+              "name": "Hook 10",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 11",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 12",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL827",
+          "hooks": [
+            {
+              "name": "Hook 13",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 14",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 15",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL169",
+          "hooks": [
+            {
+              "name": "Hook 16",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 17",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 18",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            }
+          ]
+        },
+        {
+          "name": "BOL936",
+          "hooks": [
+            {
+              "name": "Hook 19",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 20",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 21",
+              "tension": 5,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            }
+          ]
+        },
+        {
+          "name": "BOL374",
+          "hooks": [
+            {
+              "name": "Hook 22",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 23",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 24",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL296",
+          "hooks": [
+            {
+              "name": "Hook 25",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 26",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 27",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            }
+          ]
+        },
+        {
+          "name": "BOL331",
+          "hooks": [
+            {
+              "name": "Hook 28",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 29",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 30",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            }
+          ]
+        },
+        {
+          "name": "BOL215",
+          "hooks": [
+            {
+              "name": "Hook 31",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 32",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 33",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL616",
+          "hooks": [
+            {
+              "name": "Hook 34",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 35",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 36",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL953",
+          "hooks": [
+            {
+              "name": "Hook 37",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 38",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 39",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "STERN"
+            }
+          ]
+        },
+        {
+          "name": "BOL663",
+          "hooks": [
+            {
+              "name": "Hook 40",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 41",
+              "tension": 6,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 42",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "STERN"
+            }
+          ]
+        },
+        {
+          "name": "BOL693",
+          "hooks": [
+            {
+              "name": "Hook 43",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 44",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 45",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "STERN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berth C",
+      "bollardCount": 12,
+      "hookCount": 36,
+      "ship": {
+        "name": "Windward Neha",
+        "vesselId": "1974"
+      },
+      "radars": [
+        {
+          "name": "BCRD1",
+          "shipDistance": null,
+          "distanceChange": null,
+          "distanceStatus": "INACTIVE"
+        },
+        {
+          "name": "BCRD2",
+          "shipDistance": 7.412954341704662,
+          "distanceChange": 4.984924353925102,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BCRD3",
+          "shipDistance": 8.639504999655559,
+          "distanceChange": 5.44150343442649,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BCRD4",
+          "shipDistance": null,
+          "distanceChange": null,
+          "distanceStatus": "INACTIVE"
+        },
+        {
+          "name": "BCRD5",
+          "shipDistance": 2.247912944569965,
+          "distanceChange": 0.8124845154776468,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BCRD6",
+          "shipDistance": 12.79546665031797,
+          "distanceChange": 12.449989538202686,
+          "distanceStatus": "ACTIVE"
+        }
+      ],
+      "bollards": [
+        {
+          "name": "BOL111",
+          "hooks": [
+            {
+              "name": "Hook 1",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 2",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 3",
+              "tension": 5,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            }
+          ]
+        },
+        {
+          "name": "BOL738",
+          "hooks": [
+            {
+              "name": "Hook 4",
+              "tension": 5,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 5",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 6",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL866",
+          "hooks": [
+            {
+              "name": "Hook 7",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 8",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 9",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL212",
+          "hooks": [
+            {
+              "name": "Hook 10",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 11",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 12",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL414",
+          "hooks": [
+            {
+              "name": "Hook 13",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 14",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 15",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            }
+          ]
+        },
+        {
+          "name": "BOL576",
+          "hooks": [
+            {
+              "name": "Hook 16",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 17",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 18",
+              "tension": 5,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            }
+          ]
+        },
+        {
+          "name": "BOL611",
+          "hooks": [
+            {
+              "name": "Hook 19",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 20",
+              "tension": 5,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 21",
+              "tension": null,
+              "faulted": true,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL035",
+          "hooks": [
+            {
+              "name": "Hook 22",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 23",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 24",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            }
+          ]
+        },
+        {
+          "name": "BOL672",
+          "hooks": [
+            {
+              "name": "Hook 25",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 26",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 27",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            }
+          ]
+        },
+        {
+          "name": "BOL074",
+          "hooks": [
+            {
+              "name": "Hook 28",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 29",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 30",
+              "tension": null,
+              "faulted": true,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL723",
+          "hooks": [
+            {
+              "name": "Hook 31",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 32",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 33",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "STERN"
+            }
+          ]
+        },
+        {
+          "name": "BOL721",
+          "hooks": [
+            {
+              "name": "Hook 34",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 35",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 36",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berth D",
+      "bollardCount": 16,
+      "hookCount": 48,
+      "ship": {
+        "name": "Diligent Camila",
+        "vesselId": "5769"
+      },
+      "radars": [
+        {
+          "name": "BDRD1",
+          "shipDistance": 0.2157540252056629,
+          "distanceChange": 1.2408780143549745,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BDRD2",
+          "shipDistance": 7.46882525113033,
+          "distanceChange": 1.065399891067356,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BDRD3",
+          "shipDistance": 9.424142481393162,
+          "distanceChange": 2.8255259190116213,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BDRD4",
+          "shipDistance": 5.391338786010207,
+          "distanceChange": 3.3468986046520257,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BDRD5",
+          "shipDistance": null,
+          "distanceChange": null,
+          "distanceStatus": "INACTIVE"
+        },
+        {
+          "name": "BDRD6",
+          "shipDistance": 3.989037400862494,
+          "distanceChange": 1.8850553267109733,
+          "distanceStatus": "ACTIVE"
+        }
+      ],
+      "bollards": [
+        {
+          "name": "BOL145",
+          "hooks": [
+            {
+              "name": "Hook 1",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 2",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 3",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL888",
+          "hooks": [
+            {
+              "name": "Hook 4",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 5",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 6",
+              "tension": null,
+              "faulted": true,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL638",
+          "hooks": [
+            {
+              "name": "Hook 7",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 8",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 9",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL337",
+          "hooks": [
+            {
+              "name": "Hook 10",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 11",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 12",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            }
+          ]
+        },
+        {
+          "name": "BOL655",
+          "hooks": [
+            {
+              "name": "Hook 13",
+              "tension": null,
+              "faulted": true,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 14",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 15",
+              "tension": 5,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            }
+          ]
+        },
+        {
+          "name": "BOL422",
+          "hooks": [
+            {
+              "name": "Hook 16",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 17",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 18",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL158",
+          "hooks": [
+            {
+              "name": "Hook 19",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 20",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 21",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL484",
+          "hooks": [
+            {
+              "name": "Hook 22",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 23",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 24",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            }
+          ]
+        },
+        {
+          "name": "BOL094",
+          "hooks": [
+            {
+              "name": "Hook 25",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 26",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 27",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            }
+          ]
+        },
+        {
+          "name": "BOL641",
+          "hooks": [
+            {
+              "name": "Hook 28",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 29",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 30",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            }
+          ]
+        },
+        {
+          "name": "BOL001",
+          "hooks": [
+            {
+              "name": "Hook 31",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 32",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 33",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            }
+          ]
+        },
+        {
+          "name": "BOL855",
+          "hooks": [
+            {
+              "name": "Hook 34",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 35",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 36",
+              "tension": 5,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            }
+          ]
+        },
+        {
+          "name": "BOL375",
+          "hooks": [
+            {
+              "name": "Hook 37",
+              "tension": null,
+              "faulted": true,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 38",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 39",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            }
+          ]
+        },
+        {
+          "name": "BOL882",
+          "hooks": [
+            {
+              "name": "Hook 40",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 41",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 42",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL295",
+          "hooks": [
+            {
+              "name": "Hook 43",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 44",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 45",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "STERN"
+            }
+          ]
+        },
+        {
+          "name": "BOL676",
+          "hooks": [
+            {
+              "name": "Hook 46",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 47",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 48",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berth E",
+      "bollardCount": 11,
+      "hookCount": 33,
+      "ship": {
+        "name": "Noble Anh",
+        "vesselId": "8462"
+      },
+      "radars": [
+        {
+          "name": "BERD1",
+          "shipDistance": 5.384148861269987,
+          "distanceChange": 3.0284617955589517,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BERD2",
+          "shipDistance": 2.4065024065756395,
+          "distanceChange": 2.5452030393095244,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BERD3",
+          "shipDistance": 11.960328428237501,
+          "distanceChange": 0.2295459712955772,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BERD4",
+          "shipDistance": null,
+          "distanceChange": null,
+          "distanceStatus": "INACTIVE"
+        },
+        {
+          "name": "BERD5",
+          "shipDistance": null,
+          "distanceChange": null,
+          "distanceStatus": "INACTIVE"
+        }
+      ],
+      "bollards": [
+        {
+          "name": "BOL925",
+          "hooks": [
+            {
+              "name": "Hook 1",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 2",
+              "tension": 7,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 3",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL533",
+          "hooks": [
+            {
+              "name": "Hook 4",
+              "tension": null,
+              "faulted": true,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 5",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 6",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            }
+          ]
+        },
+        {
+          "name": "BOL893",
+          "hooks": [
+            {
+              "name": "Hook 7",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 8",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 9",
+              "tension": null,
+              "faulted": true,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL919",
+          "hooks": [
+            {
+              "name": "Hook 10",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 11",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 12",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL556",
+          "hooks": [
+            {
+              "name": "Hook 13",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 14",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 15",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL481",
+          "hooks": [
+            {
+              "name": "Hook 16",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 17",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 18",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            }
+          ]
+        },
+        {
+          "name": "BOL917",
+          "hooks": [
+            {
+              "name": "Hook 19",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 20",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 21",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            }
+          ]
+        },
+        {
+          "name": "BOL825",
+          "hooks": [
+            {
+              "name": "Hook 22",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 23",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 24",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            }
+          ]
+        },
+        {
+          "name": "BOL731",
+          "hooks": [
+            {
+              "name": "Hook 25",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 26",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 27",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL467",
+          "hooks": [
+            {
+              "name": "Hook 28",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 29",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 30",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "STERN"
+            }
+          ]
+        },
+        {
+          "name": "BOL682",
+          "hooks": [
+            {
+              "name": "Hook 31",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 32",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 33",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berth F",
+      "bollardCount": 8,
+      "hookCount": 24,
+      "ship": {
+        "name": "Valorous Sophia",
+        "vesselId": "3228"
+      },
+      "radars": [
+        {
+          "name": "BFRD1",
+          "shipDistance": null,
+          "distanceChange": null,
+          "distanceStatus": "INACTIVE"
+        },
+        {
+          "name": "BFRD2",
+          "shipDistance": null,
+          "distanceChange": null,
+          "distanceStatus": "INACTIVE"
+        },
+        {
+          "name": "BFRD3",
+          "shipDistance": 3.3743540976451953,
+          "distanceChange": 6.448644270039868,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BFRD4",
+          "shipDistance": 11.879316808401548,
+          "distanceChange": 0.646092784449408,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BFRD5",
+          "shipDistance": null,
+          "distanceChange": null,
+          "distanceStatus": "INACTIVE"
+        },
+        {
+          "name": "BFRD6",
+          "shipDistance": 4.241549514763944,
+          "distanceChange": 9.032249412370495,
+          "distanceStatus": "ACTIVE"
+        }
+      ],
+      "bollards": [
+        {
+          "name": "BOL998",
+          "hooks": [
+            {
+              "name": "Hook 1",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 2",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 3",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            }
+          ]
+        },
+        {
+          "name": "BOL182",
+          "hooks": [
+            {
+              "name": "Hook 4",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 5",
+              "tension": 5,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 6",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL191",
+          "hooks": [
+            {
+              "name": "Hook 7",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 8",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 9",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL177",
+          "hooks": [
+            {
+              "name": "Hook 10",
+              "tension": 7,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 11",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 12",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            }
+          ]
+        },
+        {
+          "name": "BOL389",
+          "hooks": [
+            {
+              "name": "Hook 13",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 14",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 15",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL842",
+          "hooks": [
+            {
+              "name": "Hook 16",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 17",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 18",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL093",
+          "hooks": [
+            {
+              "name": "Hook 19",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 20",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 21",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "STERN"
+            }
+          ]
+        },
+        {
+          "name": "BOL065",
+          "hooks": [
+            {
+              "name": "Hook 22",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 23",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 24",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "STERN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berth G",
+      "bollardCount": 14,
+      "hookCount": 42,
+      "ship": {
+        "name": "Vigilant Amelia",
+        "vesselId": "0786"
+      },
+      "radars": [
+        {
+          "name": "BGRD1",
+          "shipDistance": null,
+          "distanceChange": null,
+          "distanceStatus": "INACTIVE"
+        },
+        {
+          "name": "BGRD2",
+          "shipDistance": 4.9114660466998465,
+          "distanceChange": 7.296346270685078,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BGRD3",
+          "shipDistance": 11.08307918760156,
+          "distanceChange": 5.798143782978586,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BGRD4",
+          "shipDistance": 0.29156904289815344,
+          "distanceChange": 2.4542476364425285,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BGRD5",
+          "shipDistance": 18.199999915019056,
+          "distanceChange": 13.559303885601846,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BGRD6",
+          "shipDistance": 8.465395134801906,
+          "distanceChange": 5.03005646162876,
+          "distanceStatus": "ACTIVE"
+        }
+      ],
+      "bollards": [
+        {
+          "name": "BOL561",
+          "hooks": [
+            {
+              "name": "Hook 1",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 2",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 3",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL019",
+          "hooks": [
+            {
+              "name": "Hook 4",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 5",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 6",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            }
+          ]
+        },
+        {
+          "name": "BOL463",
+          "hooks": [
+            {
+              "name": "Hook 7",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 8",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 9",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL172",
+          "hooks": [
+            {
+              "name": "Hook 10",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 11",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 12",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL536",
+          "hooks": [
+            {
+              "name": "Hook 13",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 14",
+              "tension": 7,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 15",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL987",
+          "hooks": [
+            {
+              "name": "Hook 16",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 17",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 18",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            }
+          ]
+        },
+        {
+          "name": "BOL460",
+          "hooks": [
+            {
+              "name": "Hook 19",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 20",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 21",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            }
+          ]
+        },
+        {
+          "name": "BOL196",
+          "hooks": [
+            {
+              "name": "Hook 22",
+              "tension": null,
+              "faulted": true,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 23",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 24",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            }
+          ]
+        },
+        {
+          "name": "BOL492",
+          "hooks": [
+            {
+              "name": "Hook 25",
+              "tension": 5,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 26",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 27",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            }
+          ]
+        },
+        {
+          "name": "BOL468",
+          "hooks": [
+            {
+              "name": "Hook 28",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 29",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 30",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            }
+          ]
+        },
+        {
+          "name": "BOL626",
+          "hooks": [
+            {
+              "name": "Hook 31",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 32",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 33",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            }
+          ]
+        },
+        {
+          "name": "BOL411",
+          "hooks": [
+            {
+              "name": "Hook 34",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 35",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 36",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "STERN"
+            }
+          ]
+        },
+        {
+          "name": "BOL927",
+          "hooks": [
+            {
+              "name": "Hook 37",
+              "tension": null,
+              "faulted": true,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 38",
+              "tension": 6,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 39",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "STERN"
+            }
+          ]
+        },
+        {
+          "name": "BOL648",
+          "hooks": [
+            {
+              "name": "Hook 40",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 41",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 42",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berth H",
+      "bollardCount": 16,
+      "hookCount": 48,
+      "ship": {
+        "name": "Valiant Asha",
+        "vesselId": "1529"
+      },
+      "radars": [
+        {
+          "name": "BHRD1",
+          "shipDistance": 4.802660064929513,
+          "distanceChange": 1.666595990011603,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BHRD2",
+          "shipDistance": null,
+          "distanceChange": null,
+          "distanceStatus": "INACTIVE"
+        },
+        {
+          "name": "BHRD3",
+          "shipDistance": null,
+          "distanceChange": null,
+          "distanceStatus": "INACTIVE"
+        },
+        {
+          "name": "BHRD4",
+          "shipDistance": null,
+          "distanceChange": null,
+          "distanceStatus": "INACTIVE"
+        },
+        {
+          "name": "BHRD5",
+          "shipDistance": 7.750323691100363,
+          "distanceChange": 1.442973196894032,
+          "distanceStatus": "ACTIVE"
+        }
+      ],
+      "bollards": [
+        {
+          "name": "BOL752",
+          "hooks": [
+            {
+              "name": "Hook 1",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 2",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 3",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL329",
+          "hooks": [
+            {
+              "name": "Hook 4",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 5",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 6",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL235",
+          "hooks": [
+            {
+              "name": "Hook 7",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 8",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 9",
+              "tension": 5,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            }
+          ]
+        },
+        {
+          "name": "BOL076",
+          "hooks": [
+            {
+              "name": "Hook 10",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 11",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 12",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            }
+          ]
+        },
+        {
+          "name": "BOL725",
+          "hooks": [
+            {
+              "name": "Hook 13",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 14",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 15",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL090",
+          "hooks": [
+            {
+              "name": "Hook 16",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 17",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 18",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL942",
+          "hooks": [
+            {
+              "name": "Hook 19",
+              "tension": null,
+              "faulted": true,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 20",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 21",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL926",
+          "hooks": [
+            {
+              "name": "Hook 22",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 23",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 24",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL597",
+          "hooks": [
+            {
+              "name": "Hook 25",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 26",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 27",
+              "tension": null,
+              "faulted": true,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL592",
+          "hooks": [
+            {
+              "name": "Hook 28",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 29",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 30",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            }
+          ]
+        },
+        {
+          "name": "BOL794",
+          "hooks": [
+            {
+              "name": "Hook 31",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 32",
+              "tension": 6,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 33",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL869",
+          "hooks": [
+            {
+              "name": "Hook 34",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 35",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 36",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL193",
+          "hooks": [
+            {
+              "name": "Hook 37",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 38",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 39",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            }
+          ]
+        },
+        {
+          "name": "BOL920",
+          "hooks": [
+            {
+              "name": "Hook 40",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 41",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 42",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL727",
+          "hooks": [
+            {
+              "name": "Hook 43",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 44",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 45",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "STERN"
+            }
+          ]
+        },
+        {
+          "name": "BOL170",
+          "hooks": [
+            {
+              "name": "Hook 46",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 47",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 48",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berth I",
+      "bollardCount": 15,
+      "hookCount": 45,
+      "ship": {
+        "name": "Relentless Hana",
+        "vesselId": "4003"
+      },
+      "radars": [
+        {
+          "name": "BIRD1",
+          "shipDistance": 4.029327617576884,
+          "distanceChange": 4.282213407199588,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BIRD2",
+          "shipDistance": 1.787726425688934,
+          "distanceChange": 7.441583349383119,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BIRD3",
+          "shipDistance": 3.9297755454769443,
+          "distanceChange": 2.459701973333608,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BIRD4",
+          "shipDistance": 9.624524452517374,
+          "distanceChange": 2.9500969486605104,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BIRD5",
+          "shipDistance": 10.365333248551568,
+          "distanceChange": 1.0825443406230946,
+          "distanceStatus": "ACTIVE"
+        },
+        {
+          "name": "BIRD6",
+          "shipDistance": null,
+          "distanceChange": null,
+          "distanceStatus": "INACTIVE"
+        }
+      ],
+      "bollards": [
+        {
+          "name": "BOL309",
+          "hooks": [
+            {
+              "name": "Hook 1",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 2",
+              "tension": null,
+              "faulted": true,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 3",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL029",
+          "hooks": [
+            {
+              "name": "Hook 4",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 5",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 6",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL179",
+          "hooks": [
+            {
+              "name": "Hook 7",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 8",
+              "tension": 5,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            },
+            {
+              "name": "Hook 9",
+              "tension": 5,
+              "faulted": false,
+              "attachedLine": "HEAD"
+            }
+          ]
+        },
+        {
+          "name": "BOL699",
+          "hooks": [
+            {
+              "name": "Hook 10",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 11",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 12",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL992",
+          "hooks": [
+            {
+              "name": "Hook 13",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 14",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 15",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            }
+          ]
+        },
+        {
+          "name": "BOL450",
+          "hooks": [
+            {
+              "name": "Hook 16",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 17",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 18",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            }
+          ]
+        },
+        {
+          "name": "BOL978",
+          "hooks": [
+            {
+              "name": "Hook 19",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 20",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 21",
+              "tension": 0,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            }
+          ]
+        },
+        {
+          "name": "BOL243",
+          "hooks": [
+            {
+              "name": "Hook 22",
+              "tension": null,
+              "faulted": true,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 23",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 24",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            }
+          ]
+        },
+        {
+          "name": "BOL128",
+          "hooks": [
+            {
+              "name": "Hook 25",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 26",
+              "tension": 5,
+              "faulted": false,
+              "attachedLine": "BREAST"
+            },
+            {
+              "name": "Hook 27",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL801",
+          "hooks": [
+            {
+              "name": "Hook 28",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 29",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 30",
+              "tension": null,
+              "faulted": true,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL887",
+          "hooks": [
+            {
+              "name": "Hook 31",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 32",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            },
+            {
+              "name": "Hook 33",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            }
+          ]
+        },
+        {
+          "name": "BOL006",
+          "hooks": [
+            {
+              "name": "Hook 34",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 35",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 36",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "SPRING"
+            }
+          ]
+        },
+        {
+          "name": "BOL634",
+          "hooks": [
+            {
+              "name": "Hook 37",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 38",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 39",
+              "tension": 4,
+              "faulted": false,
+              "attachedLine": "STERN"
+            }
+          ]
+        },
+        {
+          "name": "BOL426",
+          "hooks": [
+            {
+              "name": "Hook 40",
+              "tension": 3,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 41",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 42",
+              "tension": null,
+              "faulted": false,
+              "attachedLine": null
+            }
+          ]
+        },
+        {
+          "name": "BOL722",
+          "hooks": [
+            {
+              "name": "Hook 43",
+              "tension": 1,
+              "faulted": false,
+              "attachedLine": "STERN"
+            },
+            {
+              "name": "Hook 44",
+              "tension": null,
+              "faulted": true,
+              "attachedLine": null
+            },
+            {
+              "name": "Hook 45",
+              "tension": 2,
+              "faulted": false,
+              "attachedLine": "STERN"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
