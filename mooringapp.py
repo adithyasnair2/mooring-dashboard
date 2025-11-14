@@ -46,7 +46,7 @@ def get_recommendation(row):
     line_type = row["hook_line_type"] if pd.notna(row["hook_line_type"]) else "line"
     
     if faulted:
-        return "🔧 Hardware fault - inspect immediately"
+        return "🥶fault identified"
     if pd.isna(tension):
         return "ℹ️ No line attached"
     if tension >= 8:
